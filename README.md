@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About me
+
+- I can do some coding, guess that makes me smart
+- I can boot up Kali and ParrotOS, I guess that I'm a hacker now (ParrotOS>Kali)
+
+### More stuff about me, like the stuff that you might actually want to know
+
+- Pronouns: They/Them
+- Contact: Email me, the link should be on the side of the page. Also, shameless plug for Tutanota. *(Their not paying me, I'm just a fan)*
+
+# Website
+
+- Really? Honestly I'm shocked that you think I know HTML and Javascript well enough to build a website
