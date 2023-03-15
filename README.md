@@ -40,4 +40,6 @@ Here are some ideas to get you started:
 
 # Thanks for looking at the best page on GitHub
 
+picrew credits: @berri___
+
 ![cyber punk original source:https://imgur.com/N0haYzT ](https://github.com/munkycool/munkycool/blob/main/game.gif)
