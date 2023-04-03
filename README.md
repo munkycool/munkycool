@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - I can boot up Kali and ParrotOS, I guess that I'm a hacker now (ParrotOS>Kali)
   - Just wait till I have a degree in cybersecurity. 
 - Open Source is the way
+- Slight Red Hat fan girl
 
 ### More stuff about me, like the stuff that you might actually want to know
 
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 - Learning BASH scripting
 - learning Python
 - Thinking about learning Rust. Don't ask why I haven't learned it yet, I'm just a little bit lazy
+- Administering my power hungery home lab, which is currently running RHEL
 
 # Website
 
