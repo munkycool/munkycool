@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - Learning BASH scripting
 - learning Python
 - Thinking about learning Rust. Don't ask why I haven't learned it yet, I'm just a little bit lazy
-- Administering my power hungery home lab, which is currently running RHEL
+- Administering my power hungry home lab, which is currently running RHEL
 
 # Website
 
