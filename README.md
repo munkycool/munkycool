@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - Just wait till I have a degree in cybersecurity. 
 - Open Source is the way
 - Slight Red Hat fan girl
-    - Look, I know what they did, but it's a hard breakup man
+    - Look, I know what they did, but it's a hard breakup man. I am currently looking for other eligible suitors though. 
 
 ### More stuff about me, like the stuff that you might actually want to know
 
