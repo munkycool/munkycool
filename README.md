@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   - Just wait till I have a degree in cybersecurity. 
 - Open Source is the way
 - Slight Red Hat fan girl
-    - Look, I know what they did, but it's a hard breakup man. I am currently looking for other eligible suitors though.
- - I'm a hypocritical Mac and iPhone user
+    - \*slightly tips fedora* m'lady 
+ - Hypocritical Apple fan girl 
     - Apple silicon is just too good, can you blame me?
 
 ### More stuff about me, like the stuff that you might actually want to know
