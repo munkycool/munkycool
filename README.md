@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 # Website
 
-- Really? Honestly I'm shocked that you think I know HTML and Javascript well enough to build a website. I do have a site, munkycool.com, but I still don't know much coding. Might be a problem in the future, but I've heard good things about ChatGPT and GitHub Copilot.
+- Really? Honestly I'm shocked (and a bit flattered) that you think I know HTML, CSS, and Javascript well enough to build a website. I do have a site, art3mix.com, but I still don't know much coding. Might be a problem in the future, but I've heard good things about ChatGPT and GitHub Copilot.
 
 # Thanks for looking at the best page on GitHub
 
