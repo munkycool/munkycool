@@ -22,16 +22,19 @@ Here are some ideas to get you started:
   - Just wait till I have a degree in cybersecurity. 
 - Open Source is the way
 - Slight Red Hat fan girl
-    - Look, I know what they did, but it's a hard breakup man. I am currently looking for other eligible suitors though. 
+    - Look, I know what they did, but it's a hard breakup man. I am currently looking for other eligible suitors though.
+ - I'm a hypocritical Mac and iPhone user
+    - Apple silicon is just too good, can you blame me?
 
 ### More stuff about me, like the stuff that you might actually want to know
 
-- Pronouns: They/Them
+- Pronouns: She/They
 - Deadname for those who still don't know: Bridger
 - Contact: Email me, the link should be on the side of the page. Also, shameless plug for Tutanota. *(Their not paying me, I'm just a fan)*
 
 # Working on / Learning 
 
+- Studying cybersecurity engineering at the wonderful Iowa State University 
 - Learning BASH scripting
 - learning Python
 - Thinking about learning Rust. Don't ask why I haven't learned it yet, I'm just a little bit lazy
@@ -39,7 +42,7 @@ Here are some ideas to get you started:
 
 # Website
 
-- Really? Honestly I'm shocked that you think I know HTML and Javascript well enough to build a website. I do have a site, munkycool.com, but I still don't know much coding. Might be a problem in the future, but I've heard good things about ChatGPT.
+- Really? Honestly I'm shocked that you think I know HTML and Javascript well enough to build a website. I do have a site, munkycool.com, but I still don't know much coding. Might be a problem in the future, but I've heard good things about ChatGPT and GitHub Copilot.
 
 # Thanks for looking at the best page on GitHub
 
