@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - Pronouns: She/They
 - Deadname for those who still don't know: Bridger
-- Contact: Email me, the link should be on the side of the page. Also, shameless plug for Tutanota. *(Their not paying me, I'm just a fan)*
+- Contact: Email me, the link should be on the side of the page. Also, shameless plug for Tutanota. *(They're not paying me, I'm just a fan)*
 
 # Working on / Learning 
 
