@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Open Source is the way
 - Slight Red Hat fan girl
     - \*slightly tips fedora* m'lady 
- - Hypocritical Apple fan girl 
+ - Apple fan girl 
     - Apple silicon is just too good, can you blame me?
 
 ### More stuff about me, like the stuff that you might actually want to know
