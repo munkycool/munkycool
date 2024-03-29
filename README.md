@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 # About me
 
+- Double majoring in cybersecurity engineering and polital science
+    - I'm interested in the intersection of technology and politics. Esspecially regarding the queer community, of which I am a part of 🏳️‍🌈🏳️‍⚧️
 - I can do some coding, guess that makes me smart
 - I can boot up Kali and ParrotOS, I guess that I'm a hacker now (ParrotOS>Kali)
   - Just wait till I have a degree in cybersecurity. 
@@ -34,11 +36,16 @@ Here are some ideas to get you started:
 
 # Working on / Learning 
 
-- Studying cybersecurity engineering at the wonderful Iowa State University 
+- Studying cybersecurity engineering and political science at the wonderful Iowa State University
+- Becoming an old grandma by learning C
 - Learning BASH scripting
-- learning Python
+- learning Python (PS I love snakes)
 - Thinking about learning Rust. Don't ask why I haven't learned it yet, I'm just a little bit lazy
 - Administering my power hungry home lab, which is currently running RHEL
+
+# What I know / am confident about
+
+- As should be obvious I absolutely love Linux
 
 # Website
 
