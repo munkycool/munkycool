@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - I can boot up Kali and ParrotOS, I guess that I'm a hacker now (ParrotOS>Kali)
   - Just wait till I have a degree in cybersecurity. 
 - Open Source is the way
+- I'm in love... in love with Linux 🐧
 - Slight Red Hat fan girl
     - \*slightly tips fedora* m'lady 
  - Apple fan girl 
@@ -42,10 +43,6 @@ Here are some ideas to get you started:
 - learning Python (PS I love snakes)
 - Thinking about learning Rust. Don't ask why I haven't learned it yet, I'm just a little bit lazy
 - Administering my power hungry home lab, which is currently running RHEL
-
-# What I know / am confident about
-
-- As should be obvious I absolutely love Linux
 
 # Website
 
