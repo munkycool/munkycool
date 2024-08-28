@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - Becoming an old grandma by learning C
 - Learning BASH scripting
 - learning Python (PS I love snakes)
+- Learning Java even though I can already brew a mean cup of coffee
 - Thinking about learning Rust. Don't ask why I haven't learned it yet, I'm just a little bit lazy
 - Administering my power hungry home lab, which is currently running RHEL
 
