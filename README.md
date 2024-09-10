@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 # Working on / Learning 
 
 - Studying cybersecurity engineering and political science at the wonderful Iowa State University
-- Becoming an old grandma by learning C
 - Learning BASH scripting
 - learning Python (PS I love snakes)
 - Learning Java even though I can already brew a mean cup of coffee
@@ -48,6 +47,7 @@ Here are some ideas to get you started:
 # What I actually know 
 
 - I know the basics of R 🏴‍☠️
+- I embodied the old cat lady that I am, and learned the basics of C
 - I'm pretty good at Linux, if I do say so myself
 
 # Website
