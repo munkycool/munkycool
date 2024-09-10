@@ -45,6 +45,11 @@ Here are some ideas to get you started:
 - Thinking about learning Rust. Don't ask why I haven't learned it yet, I'm just a little bit lazy
 - Administering my power hungry home lab, which is currently running RHEL
 
+# What I actually know 
+
+- I know the basics of R 🏴‍☠️
+- I'm pretty good at Linux, if I do say so myself
+
 # Website
 
 - Really? Honestly I'm shocked (and a bit flattered) that you think I know HTML, CSS, and Javascript well enough to build a website. I do have a site, art3mix.com, but I still don't know much coding. Might be a problem in the future, but I've heard good things about ChatGPT and GitHub Copilot.
