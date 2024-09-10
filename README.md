@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 # What I actually know 
 
 - I know the basics of R 🏴‍☠️
-- I embodied the old cat lady that I am, and learned the basics of C
+- I embodied the old cat lady that I am at heart, and learned the basics of C
 - I'm pretty good at Linux, if I do say so myself
 
 # Website
