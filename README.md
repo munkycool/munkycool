@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ### More stuff about me, like the stuff that you might actually want to know
 
 - Pronouns: She/They
-- Deadname for those who still don't know: Bridger
 - Contact: Email me, the link should be on the side of the page. Also, shameless plug for Tutanota. *(They're not paying me, I'm just a fan)*
 
 # Working on / Learning 
