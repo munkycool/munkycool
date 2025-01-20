@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 - Studying cybersecurity engineering and political science at the wonderful Iowa State University
 - Learning BASH scripting
 - learning Python (PS I love snakes)
-- Learning Java even though I can already brew a mean cup of coffee
 - Thinking about learning Rust. Don't ask why I haven't learned it yet, I'm just a little bit lazy
 - Administering my power hungry home lab, which is currently running RHEL
 
@@ -48,6 +47,7 @@ Here are some ideas to get you started:
 - I know the basics of R 🏴‍☠️
 - I embodied the old cat lady that I am at heart, and learned the basics of C
 - I'm pretty good at Linux, if I do say so myself
+- I can brew a good cup of java, as I know the basics of the Java language 
 
 # Website
 
